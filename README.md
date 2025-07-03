@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Olá, meu nome é Matheus e atualmente estou estudando para adentrar no mercado de trabalho. Graduado em Análise e Desenvolvimento de Sistemas e neste período atual cursando Pós-Graduação em Engenharia de Software. Curioso e bastante entusiasta por tecnologia, fascinado em tecnologias Back-End mais precisamente com Java + Spring Boot.
+Olá, meu nome é Matheus e atualmente estou estudando para adentrar no mercado de trabalho. Graduado em Análise e Desenvolvimento de Sistemas e neste período atual cursando Pós-Graduação em Engenharia de Software. Curioso e bastante entusiasta por tecnologia, fascinado pela parte Back-End de sistemas mais precisamente com Java + Spring Boot.
 
 ## Minhas Stacks
 
